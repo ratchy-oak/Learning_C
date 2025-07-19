@@ -3,10 +3,8 @@
 
 // int = integer
 int main() {
-    int num, x, y;
-    int radius = 7;
-    float areaCircle, circumferenceCircle;
-    float celcius, farenheit;
+    int num, x, y, radius = 7;
+    float areaCircle, circumferenceCircle, celcius, farenheit;
     
     num = 39;
     printf("CPE-KMUTT"); //String
